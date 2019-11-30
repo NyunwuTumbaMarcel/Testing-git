@@ -1,2 +1,3 @@
-I am learning git very well
+I am learning git 
 And I will keep learning
+I am excited learning git
